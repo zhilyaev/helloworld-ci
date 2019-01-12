@@ -1,6 +1,6 @@
 # src
-
-> Stacker
+[![Build Status](https://cloud.drone.io/api/badges/zhilyaev/helloworld-ci/status.svg)](https://cloud.drone.io/zhilyaev/helloworld-ci)
+> simple for test CI/CD
 
 ## Build Setup
 
