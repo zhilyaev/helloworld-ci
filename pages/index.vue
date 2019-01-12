@@ -8,6 +8,8 @@
       <h2 class="subtitle">
         Change subtitle
       </h2>
+      <nuxt-link to="/makeError">to makeError</nuxt-link>
+      <nuxt-link to="/error">Error</nuxt-link>
       <div class="links">
         <a
           href="https://nuxtjs.org/"
