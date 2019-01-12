@@ -1,5 +1,8 @@
 module.exports = {
   mode: 'spa',
+  generate: {
+    dir: 'docs'
+  },
   modules: [
     '@nuxtjs/sentry',
   ],
