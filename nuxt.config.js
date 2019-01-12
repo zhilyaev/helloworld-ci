@@ -7,7 +7,7 @@ module.exports = {
     '@nuxtjs/sentry',
   ],
   router: {
-    base: 'https://zhilyaev.github.io/helloworld-ci/'
+    base: '/helloworld-ci/'
   },
   sentry: {
     dsn: 'https://2a19b76f0dd147e6843f96e8ada410ec@sentry.io/1370200'
