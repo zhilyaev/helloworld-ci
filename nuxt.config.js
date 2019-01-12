@@ -1,4 +1,11 @@
 module.exports = {
+  mode: 'spa',
+  modules: [
+    '@nuxtjs/sentry',
+  ],
+  sentry: {
+    dsn: 'https://2a19b76f0dd147e6843f96e8ada410ec@sentry.io/1370200'
+  },
   /*
   ** Headers of the page
   */

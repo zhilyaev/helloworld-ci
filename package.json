@@ -1,7 +1,7 @@
 {
   "name": "src",
   "version": "1.0.0",
-  "description": "Stacker",
+  "description": "simple project for test",
   "author": "Diamon",
   "private": true,
   "scripts": {
@@ -13,6 +13,7 @@
     "precommit": "npm run lint"
   },
   "dependencies": {
+    "@nuxtjs/sentry": "^2.1.0",
     "nuxt": "^2.0.0"
   },
   "devDependencies": {
